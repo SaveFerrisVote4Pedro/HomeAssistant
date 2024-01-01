@@ -12,10 +12,7 @@ I've been working on these for quite a few years
 ## Weather
 
 * Morning weather forecast, UV forecast (only if it is above 5), current rain, car driving range and drive time to work. Announcement is triggered when someone enters the kitchen in the morning after 7am (or after 9am on weekends and school holidays)
-
-[Notifies me if the car's windscreens might have frost or ice on it](Weather/Frost_notification) 
-
-* Notifies me if the car's windscreens might have frost or ice on it based on a trigger formula using time of day, humidity, temperature and wind speed overnight and in the morning
+* [Notifies me if the car's windscreens might have frost or ice on it](Weather/Frost_notification) based on a trigger formula using time of day, humidity, temperature and wind speed overnight and in the morning
 * Announcements of rain, lightning or very high wind gusts. Rain turns lamp blue and a snippet of "It's raining men" plays. For lighting, the lamp strobes yellow and "Thunderbolts and lightning, very very frightening" plays from Bohemian Rhapsody.
 
 ## Mail and packages

@@ -1,1 +1,1 @@
-If temperature between 4am and 7.30 drops below 3°C (or below 4°C and with wind gusts < 1km/h) then the "Good morning" message from Google Home in and a Home Assistant app notification will let us know there may be ice on the car windscreen
+

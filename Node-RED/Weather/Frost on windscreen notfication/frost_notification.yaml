@@ -1,4 +1,0 @@
-input_text:
-  node_frosty_status:
-    name: 'Frosty status'
-    initial: 'Frost warning not triggered today. '
